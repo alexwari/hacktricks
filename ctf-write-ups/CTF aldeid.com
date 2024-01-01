@@ -1,7 +1,4 @@
-
-
-
-
+<html>
 <div>
 <section>
 <article>
@@ -275,3 +272,4 @@
 </article>
 </section>
 </div>
+</html>
