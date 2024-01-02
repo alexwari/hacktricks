@@ -6,3 +6,4 @@
 * [CTFtime Write-ups](https://ctftime.org/writeups) - Newest write-ups added to CTF events on CTFtime
 * [CTF Aldeid](https://github.com/alexwari/hacktricks/blob/master/ctf-write-ups/CTF%20aldeid.md) - Some good CTF writeup
 * [Vulnhub](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeupsl) writeup
+* HTB writeups (https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
