@@ -8,3 +8,4 @@
 * [Vulnhub](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeupsl) writeup
 * [HTB writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 * [CTF Cheats](https://github.com/Adamkadaban/CTFs#ctf-cheat-sheet)
+[* hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
